@@ -1,4 +1,4 @@
-A simple weather application built with React and React Router, Bootstrap using the [OpenWeatherAPI](http://openweathermap.org/api).
+Helping the People Call Their Government
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
